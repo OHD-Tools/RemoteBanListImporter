@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'OHDBanList',
+      name: 'OHDBanListImporter',
       script: 'index.mjs',
       watch: '.',
     },
